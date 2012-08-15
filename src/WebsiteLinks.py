@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# get_links.py
+# WebsiteLinks.py
 
 import sys
 import urllib
